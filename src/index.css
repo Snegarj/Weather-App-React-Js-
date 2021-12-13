@@ -5,11 +5,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: url(./bg1.jpg);
+  background-image: url("https://stackblitz.com/files/react-vnhn17/github/Snegarj/Weather-App-React-Js-/master/src/bg1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  color:white;
-
+  color: white;
 }
 
 code {
